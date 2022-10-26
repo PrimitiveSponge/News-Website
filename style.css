@@ -1,0 +1,19 @@
+.navi {
+    border: 5px dashed;
+
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    color: white;
+}
+
+.yes {
+    background-color:rgb(68, 68, 68);
+}
+
